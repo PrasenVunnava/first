@@ -26,3 +26,7 @@ function showPopup(bool) {
     document.getElementById("popup").style.visibility = "hidden";
   }
 }
+
+function add(x, y) {
+  return x + y;
+}
